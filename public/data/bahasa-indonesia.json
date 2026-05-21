@@ -1,63 +1,42 @@
 {
-  "id": "bahasa-indonesia",
-  "title": "Bahasa Indonesia",
-  "description": "Materi tata bahasa, ejaan, dan penulisan Bahasa Indonesia yang baik dan benar sesuai PUEBI",
+  "id": "bahasa-indonesia-pi-2024",
+  "title": "Materi Bahasa Indonesia (Penyesuaian Ijazah)",
+  "description": "Ringkasan komprehensif materi Bahasa Indonesia mencakup sejarah, kedudukan, ragam bahasa, ejaan, dan korespondensi resmi untuk persiapan ujian penyesuaian ijazah.",
   "icon": "BookOpen",
-  "color": "bg-blue-500",
-  "lastUpdated": "2024-01-15",
-  "author": "Tim Penyusun Materi",
-  "tags": ["PUEBI", "Tata Bahasa", "Ejaan", "Penulisan"],
+  "color": "bg-blue-600",
+  "lastUpdated": "2024-05-21",
+  "author": "Tim Penyusun Materi PI",
+  "tags": ["Sejarah", "Kedudukan Bahasa", "PUEBI", "Surat Dinas", "Bahasa Baku"],
   "sections": [
     {
-      "id": "pengantar",
-      "title": "Pengantar Bahasa Indonesia",
-      "content": "<h2>Sejarah Bahasa Indonesia</h2><p>Bahasa Indonesia adalah bahasa resmi Republik Indonesia dan bahasa persatuan bangsa Indonesia. Bahasa ini diresmikan penggunaannya setelah Proklamasi Kemerdekaan Indonesia, tepatnya sehari sesudahnya, bersamaan dengan mulai berlakunya konstitusi.</p><p>Bahasa Indonesia merupakan salah satu dari banyak ragam bahasa Melayu. Dasar yang digunakan adalah bahasa Melayu Riau, namun dalam perkembangannya banyak dipengaruhi oleh berbagai bahasa, terutama bahasa Jawa, Belanda, dan Inggris.</p><h3>Kedudukan Bahasa Indonesia</h3><ul><li><strong>Bahasa Nasional</strong> - Lambang kebanggaan nasional, lambang identitas nasional, alat pemersatu bangsa</li><li><strong>Bahasa Negara</strong> - Bahasa resmi kenegaraan, bahasa pengantar pendidikan, alat pengembangan kebudayaan dan IPTEK</li></ul>",
-      "media": [
-        {
-          "type": "image",
-          "url": "/images/sample/bahasa-indonesia-hero.jpg",
-          "caption": "Bahasa Indonesia sebagai bahasa pemersatu bangsa",
-          "alt": "Ilustrasi Bahasa Indonesia"
-        }
-      ]
-    },
-    {
-      "id": "puebi",
-      "title": "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)",
-      "content": "<h2>Penulisan Huruf</h2><h3>Huruf Kapital</h3><p>Huruf kapital digunakan pada:</p><ol><li>Huruf pertama awal kalimat</li><li>Huruf pertama petikan langsung</li><li>Huruf pertama nama Tuhan, agama, dan kitab suci</li><li>Huruf pertama nama gelar kehormatan, keturunan, dan keagamaan</li><li>Huruf pertama nama jabatan dan pangkat</li><li>Huruf pertama nama bangsa, suku, dan bahasa</li><li>Huruf pertama nama tahun, bulan, hari, dan hari raya</li><li>Huruf pertama nama geografi</li></ol><h3>Huruf Miring</h3><p>Huruf miring digunakan untuk:</p><ul><li>Menuliskan judul buku, majalah, dan surat kabar</li><li>Menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata</li><li>Menuliskan kata nama ilmiah atau ungkapan asing</li></ul>",
-      "media": [
-        {
-          "type": "image",
-          "url": "/images/sample/puebi-diagram.jpg",
-          "caption": "Diagram penggunaan huruf kapital dalam PUEBI",
-          "alt": "Diagram PUEBI"
-        }
-      ]
-    },
-    {
-      "id": "tanda-baca",
-      "title": "Penggunaan Tanda Baca",
-      "content": "<h2>Tanda Baca dalam Bahasa Indonesia</h2><h3>Tanda Titik (.)</h3><p>Tanda titik digunakan:</p><ul><li>Pada akhir kalimat pernyataan</li><li>Di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar</li><li>Untuk memisahkan angka jam, menit, dan detik</li><li>Di antara nama penulis, judul tulisan, dan tempat terbit dalam daftar pustaka</li></ul><h3>Tanda Koma (,)</h3><p>Tanda koma digunakan:</p><ul><li>Di antara unsur-unsur dalam suatu pemerincian atau pembilangan</li><li>Untuk memisahkan kalimat setara yang satu dari kalimat setara berikutnya</li><li>Untuk memisahkan anak kalimat dari induk kalimat jika anak kalimat mendahului induk kalimat</li><li>Di belakang kata atau ungkapan penghubung antarkalimat</li></ul><h3>Tanda Titik Koma (;)</h3><p>Tanda titik koma digunakan untuk memisahkan bagian-bagian kalimat yang sejenis dan setara.</p>",
+      "id": "pengertian-sejarah",
+      "title": "Pengertian dan Sejarah Bahasa Indonesia",
+      "content": "<h2>Definisi Bahasa</h2><p>Bahasa adalah alat komunikasi antarmanusia untuk menyampaikan gagasan baik secara lisan maupun tulisan [1]. Menurut DR. Gorys Keraf, bahasa merupakan sistem teratur berupa lambang bunyi untuk mengekspresikan perasaan dan pikiran [2]. Secara sosiologis, bahasa adalah sistem simbol lisan arbitrer yang digunakan masyarakat berlandaskan budaya bersama [3]. Bahasa juga mencerminkan kepribadian individu, keluarga, dan bangsa [4].</p><h2>Sejarah Perkembangan</h2><p>Bahasa Indonesia berasal dari rumpun bahasa Austronesia atau bahasa Melayu tua [4, 5]. Bentuk purbanya, Proto Melayu-Polinesia, mulai berkembang di Filipina sekitar 2500 SM sebelum bermigrasi ke Nusantara [5]. Bukti sejarah tertua ditemukan pada berbagai prasasti seperti Kedukan Bukit (683 M) dan Kota Kapur (686 M) [6]. Bahasa Indonesia resmi diikrarkan sebagai bahasa persatuan melalui Sumpah Pemuda pada 28 Oktober 1928 sebagai langkah politis untuk memperkuat semangat juang kemerdekaan [6, 7].</p>",
       "media": []
     },
     {
-      "id": "kata-baku",
-      "title": "Kata Baku dan Tidak Baku",
-      "content": "<h2>Pengertian Kata Baku</h2><p>Kata baku adalah kata yang digunakan sesuai dengan kaidah bahasa Indonesia yang telah ditentukan. Kata baku digunakan dalam situasi resmi, seperti surat-menyurat resmi, karya ilmiah, dan rapat resmi.</p><h3>Contoh Kata Baku dan Tidak Baku</h3><table><thead><tr><th>Baku</th><th>Tidak Baku</th></tr></thead><tbody><tr><td>aktif</td><td>aktip</td></tr><tr><td>aktivitas</td><td>aktifitas</td></tr><tr><td>analisis</td><td>analisa</td></tr><tr><td>apotek</td><td>apotik</td></tr><tr><td>atlet</td><td>atlit</td></tr><tr><td>bus</td><td>bis</td></tr><tr><td>daftar</td><td>dapter</td></tr><tr><td>diagnosis</td><td>diagnosa</td></tr><tr><td>efektif</td><td>efektip</td></tr><tr><td>februari</td><td>pebruari</td></tr></tbody></table>",
+      "id": "kedudukan-fungsi",
+      "title": "Kedudukan dan Fungsi Bahasa",
+      "content": "<h2>Kedudukan Bahasa Indonesia</h2><p>Bahasa Indonesia memiliki dua kedudukan utama:</p><ul><li><strong>Bahasa Nasional:</strong> Bersumber pada Sumpah Pemuda 1928 [7].</li><li><strong>Bahasa Negara:</strong> Berdasarkan UUD 1945 Pasal 36 yang menyatakan 'bahasa negara ialah bahasa Indonesia' [7].</li></ul><h2>Fungsi Berdasarkan Kedudukan</h2><p>Sebagai <strong>Bahasa Nasional</strong>, fungsinya meliputi lambang kebanggaan dan identitas nasional, alat pemersatu masyarakat yang berbeda latar belakang, serta alat perhubungan antarbudaya dan daerah [8]. Sebagai <strong>Bahasa Negara</strong>, fungsinya mencakup bahasa resmi kenegaraan, pengantar pendidikan, alat komunikasi tingkat nasional dalam pembangunan, serta sarana pengembangan IPTEK dan kebudayaan [9]. UU No. 24 Tahun 2009 lebih lanjut mewajibkan penggunaan Bahasa Indonesia dalam nota kesepahaman, perjanjian resmi, dan laporan kepada instansi pemerintah [10-12].</p>",
       "media": []
     },
     {
-      "id": "kalimat-efektif",
-      "title": "Kalimat Efektif",
-      "content": "<h2>Pengertian Kalimat Efektif</h2><p>Kalimat efektif adalah kalimat yang dapat mengungkapkan gagasan penutur atau penulis secara tepat sehingga dapat dipahami oleh pendengar atau pembaca secara tepat pula.</p><h3>Ciri-ciri Kalimat Efektif</h3><ol><li><strong>Kesepadanan</strong> - Memiliki struktur yang lengkap (subjek, predikat, objek, keterangan)</li><li><strong>Keparalelan</strong> - Kesamaan bentuk kata yang digunakan dalam kalimat</li><li><strong>Ketegasan</strong> - Menempatkan bagian penting pada awal atau akhir kalimat</li><li><strong>Kehematan</strong> - Tidak menggunakan kata-kata yang tidak perlu</li><li><strong>Kecermatan</strong> - Tidak menimbulkan penafsiran ganda</li><li><strong>Kepaduan</strong> - Hubungan antar unsur kalimat yang logis</li><li><strong>Kelogisan</strong> - Makna kalimat yang masuk akal</li></ol>",
-      "media": [
-        {
-          "type": "video",
-          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-          "caption": "Video penjelasan kalimat efektif (contoh placeholder)",
-          "alt": "Video pembelajaran kalimat efektif"
-        }
-      ]
+      "id": "ragam-baik-benar",
+      "title": "Ragam Bahasa dan Penggunaan yang Baik & Benar",
+      "content": "<h2>Ragam Bahasa</h2><p>Ragam bahasa bervariasi menurut pemakaian, topik, hubungan antarpenutur, dan medium komunikasi [13]. Ragam <strong>Lisan</strong> berfokus pada aspek lafal, sedangkan ragam <strong>Tulis</strong> berurusan dengan ejaan dan tata bahasa [14, 15]. Berdasarkan pokok persoalan, terdapat ragam ilmu (contoh: <i>fosil, orbit</i>), ragam hukum (contoh: <i>pidana, kasasi</i>), dan ragam niaga (contoh: <i>laba, kredit</i>) [15].</p><h2>Bahasa yang Baik dan Benar</h2><p>Bahasa yang <strong>baik</strong> adalah bahasa yang digunakan sesuai dengan situasi, konteks, dan sasaran komunikasi (formal/nonformal) [16, 17]. Bahasa yang <strong>benar</strong> adalah bahasa yang mengikuti kaidah tata bahasa dan ejaan yang berlaku [18]. Seseorang dianjurkan menggunakan ragam baku dalam pertemuan resmi, namun tidak dituntut menggunakannya dalam situasi santai seperti di pasar agar tidak menimbulkan keheranan [13, 19].</p>",
+      "media": []
+    },
+    {
+      "id": "ejaan-pembentukan-kata",
+      "title": "Ejaan, Pembentukan Kata, dan Tanda Baca",
+      "content": "<h2>Penulisan Kata Turunan</h2><p>Kata turunan dengan imbuhan (prefiks, sufiks, infiks) ditulis serangkai dengan kata dasarnya [20]. Jika bentuk dasarnya gabungan kata dan mendapat konfiks (awalan-akhiran), maka semuanya ditulis serangkai, contoh: <i>mempertanggungjawabkan</i> [21, 22]. Khusus untuk kata 'maha', penulisan dipisah jika diikuti kata berimbuhan (contoh: <i>Maha Pengasih</i>) dan ditulis serangkai jika diikuti kata dasar dua suku kata yang tidak berimbuhan (contoh: <i>Mahasiswa</i>) [22, 23].</p><h2>Tanda Baca dan Huruf Kapital</h2><ul><li><strong>Huruf Kapital:</strong> Digunakan untuk awal kalimat, petikan langsung, nama Tuhan/Kitab Suci, gelar yang diikuti nama orang, nama jabatan yang diikuti nama instansi/orang, dan nama geografi [24-27].</li><li><strong>Tanda Titik (.):</strong> Digunakan untuk mengakhiri kalimat, singkatan gelar/nama, dan memisahkan angka ribuan yang menyatakan jumlah [28, 29].</li><li><strong>Partikel 'pun':</strong> Ditulis terpisah (contoh: <i>siapa pun</i>), kecuali pada 12 kata konjungsi tertentu seperti <i>walaupun</i> dan <i>meskipun</i> [24, 30].</li></ul>",
+      "media": []
+    },
+    {
+      "id": "surat-resmi",
+      "title": "Korespondensi Surat Resmi",
+      "content": "<h2>Struktur Surat Resmi</h2><p>Surat resmi terdiri dari 10 bagian standar: (1) Kepala surat, (2) Tanggal surat, (3) Nomor, lampiran, dan hal, (4) Nama dan alamat tujuan, (5) Salam pembuka, (6) Paragraf pembuka, (7) Isi surat, (8) Paragraf penutup, (9) Salam penutup, dan (10) Tanda tangan serta nama pengirim [31].</p><h2>Perbaikan Kesalahan Umum</h2><p>Dalam surat dinas, beberapa hal yang perlu diperhatikan:</p><ul><li>Waktu jam harus diganti dengan kata <strong>pukul</strong> [32].</li><li>Penutup surat tidak boleh menggunakan '-nya' (seperti <i>atas perhatiannya</i>), melainkan harus menyebut subjek tujuan (contoh: <i>atas perhatian Saudara</i>) [32, 33].</li><li>Paragraf penutup tidak disarankan menggunakan frasa 'sebelum dan sesudahnya' karena tidak informatif [33, 34].</li><li>Alamat tujuan diawali dengan 'Yth.' dan diikuti nama jabatan atau orang, bukan 'Kepada Yth.' [35].</li></ul>",
+      "media": []
     }
   ]
 }
