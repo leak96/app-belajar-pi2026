@@ -1,0 +1,70 @@
+{
+  "id": "wawasan-kebangsaan",
+  "title": "Wawasan Kebangsaan",
+  "description": "Pemahaman tentang nilai-nilai kebangsaan, Pancasila, UUD 1945, dan NKRI",
+  "icon": "Flag",
+  "color": "bg-red-500",
+  "lastUpdated": "2024-01-20",
+  "author": "Tim Penyusun Materi",
+  "tags": ["Pancasila", "UUD 1945", "NKRI", "Bhineka Tunggal Ika"],
+  "sections": [
+    {
+      "id": "pengantar",
+      "title": "Pengantar Wawasan Kebangsaan",
+      "content": "<h2>Pengertian Wawasan Kebangsaan</h2><p>Wawasan kebangsaan adalah cara pandang bangsa Indonesia dalam rangka mengelola kehidupan berbangsa dan bernegara yang dilandasi oleh jati diri bangsa (nation character) dan kesadaran terhadap sistem nasional (national system).</p><p>Wawasan kebangsaan berlandaskan pada Pancasila sebagai falsafah hidup bangsa, UUD 1945 sebagai landasan konstitusional, dan NKRI sebagai wadah persatuan.</p><h3>Tujuan Wawasan Kebangsaan</h3><ul><li>Membentuk rasa nasionalisme dan patriotisme</li><li>Menjaga persatuan dan kesatuan bangsa</li><li>Memahami nilai-nilai luhur bangsa</li><li>Menumbuhkan rasa cinta tanah air</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/wawasan-kebangsaan.jpg",
+          "caption": "Indonesia sebagai negara kesatuan yang berdaulat",
+          "alt": "Ilustrasi wawasan kebangsaan"
+        }
+      ]
+    },
+    {
+      "id": "pancasila",
+      "title": "Pancasila sebagai Dasar Negara",
+      "content": "<h2>Lima Sila Pancasila</h2><ol><li><strong>Ketuhanan Yang Maha Esa</strong><p>Mengandung makna pengakuan terhadap Tuhan YME dan kebebasan beragama</p></li><li><strong>Kemanusiaan yang Adil dan Beradab</strong><p>Mengandung makna penghargaan terhadap hak asasi manusia</p></li><li><strong>Persatuan Indonesia</strong><p>Mengandung makna mengutamakan kepentingan negara dan bangsa</p></li><li><strong>Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan</strong><p>Mengandung makna demokrasi Pancasila dengan musyawarah mufakat</p></li><li><strong>Keadilan Sosial bagi Seluruh Rakyat Indonesia</strong><p>Mengandung makna kesejahteraan yang merata bagi seluruh rakyat</p></li></ol>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/garuda-pancasila.jpg",
+          "caption": "Lambang Garuda Pancasila",
+          "alt": "Garuda Pancasila"
+        }
+      ]
+    },
+    {
+      "id": "uud-1945",
+      "title": "UUD 1945",
+      "content": "<h2>Undang-Undang Dasar 1945</h2><p>UUD 1945 adalah konstitusi negara Republik Indonesia yang disahkan pada tanggal 18 Agustus 1945 oleh PPKI (Panitia Persiapan Kemerdekaan Indonesia).</p><h3>Sistematika UUD 1945</h3><ul><li><strong>Pembukaan</strong> - Berisi tujuan negara, dasar negara, dan cita-cita bangsa</li><li><strong>Batang Tubuh</strong> - Terdiri dari 16 Bab, 37 Pasal, 3 Pasal Aturan Peralihan, dan 2 Pasal Aturan Tambahan</li><li><strong>Penjelasan</strong> - Penjelasan umum dan penjelasan pasal demi pasal</li></ul><h3>Amandemen UUD 1945</h3><p>UUD 1945 telah mengalami empat kali amandemen:</p><ol><li>Amandemen Pertama (1999)</li><li>Amandemen Kedua (2000)</li><li>Amandemen Ketiga (2001)</li><li>Amandemen Keempat (2002)</li></ol>",
+      "media": []
+    },
+    {
+      "id": "nkri",
+      "title": "Negara Kesatuan Republik Indonesia",
+      "content": "<h2>Konsep NKRI</h2><p>Negara Kesatuan Republik Indonesia (NKRI) adalah bentuk negara yang terdiri dari satu negara berdaulat dengan satu pemerintahan pusat yang memiliki kekuasaan tertinggi.</p><h3>Ciri-ciri NKRI</h3><ul><li>Satu pemerintahan pusat yang berdaulat</li><li>Satu UUD yang berlaku untuk seluruh wilayah</li><li>Satu kepala negara</li><li>Satu badan legislatif</li></ul><h3>Wilayah NKRI</h3><p>Indonesia adalah negara kepulauan terbesar di dunia dengan:</p><ul><li>17.504 pulau</li><li>38 provinsi</li><li>Luas wilayah darat: 1.919.440 km²</li><li>Luas wilayah laut: 3.257.483 km²</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/peta-indonesia.jpg",
+          "caption": "Peta Wilayah NKRI",
+          "alt": "Peta Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "bhineka-tunggal-ika",
+      "title": "Bhineka Tunggal Ika",
+      "content": "<h2>Semboyan Bangsa Indonesia</h2><p><strong>Bhineka Tunggal Ika</strong> berasal dari bahasa Jawa Kuno yang artinya \"Berbeda-beda tetapi tetap satu\".</p><h3>Makna Bhineka Tunggal Ika</h3><p>Semboyan ini menggambarkan keberagaman Indonesia yang terdiri dari berbagai suku, agama, ras, dan golongan namun tetap satu sebagai bangsa Indonesia.</p><h3>Implementasi Bhineka Tunggal Ika</h3><ul><li><strong>Toleransi</strong> - Menghargai perbedaan agama dan kepercayaan</li><li><strong>Gotong Royong</strong> - Bekerja sama tanpa memandang perbedaan</li><li><strong>Persatuan</strong> - Menjaga keutuhan NKRI di atas kepentingan golongan</li><li><strong>Kesetaraan</strong> - Memperlakukan semua warga negara secara adil</li></ul>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "caption": "Video tentang keberagaman Indonesia (contoh placeholder)",
+          "alt": "Video Bhineka Tunggal Ika"
+        }
+      ]
+    }
+  ]
+}

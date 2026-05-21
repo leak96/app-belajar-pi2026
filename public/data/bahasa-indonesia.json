@@ -1,0 +1,63 @@
+{
+  "id": "bahasa-indonesia",
+  "title": "Bahasa Indonesia",
+  "description": "Materi tata bahasa, ejaan, dan penulisan Bahasa Indonesia yang baik dan benar sesuai PUEBI",
+  "icon": "BookOpen",
+  "color": "bg-blue-500",
+  "lastUpdated": "2024-01-15",
+  "author": "Tim Penyusun Materi",
+  "tags": ["PUEBI", "Tata Bahasa", "Ejaan", "Penulisan"],
+  "sections": [
+    {
+      "id": "pengantar",
+      "title": "Pengantar Bahasa Indonesia",
+      "content": "<h2>Sejarah Bahasa Indonesia</h2><p>Bahasa Indonesia adalah bahasa resmi Republik Indonesia dan bahasa persatuan bangsa Indonesia. Bahasa ini diresmikan penggunaannya setelah Proklamasi Kemerdekaan Indonesia, tepatnya sehari sesudahnya, bersamaan dengan mulai berlakunya konstitusi.</p><p>Bahasa Indonesia merupakan salah satu dari banyak ragam bahasa Melayu. Dasar yang digunakan adalah bahasa Melayu Riau, namun dalam perkembangannya banyak dipengaruhi oleh berbagai bahasa, terutama bahasa Jawa, Belanda, dan Inggris.</p><h3>Kedudukan Bahasa Indonesia</h3><ul><li><strong>Bahasa Nasional</strong> - Lambang kebanggaan nasional, lambang identitas nasional, alat pemersatu bangsa</li><li><strong>Bahasa Negara</strong> - Bahasa resmi kenegaraan, bahasa pengantar pendidikan, alat pengembangan kebudayaan dan IPTEK</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/bahasa-indonesia-hero.jpg",
+          "caption": "Bahasa Indonesia sebagai bahasa pemersatu bangsa",
+          "alt": "Ilustrasi Bahasa Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "puebi",
+      "title": "Pedoman Umum Ejaan Bahasa Indonesia (PUEBI)",
+      "content": "<h2>Penulisan Huruf</h2><h3>Huruf Kapital</h3><p>Huruf kapital digunakan pada:</p><ol><li>Huruf pertama awal kalimat</li><li>Huruf pertama petikan langsung</li><li>Huruf pertama nama Tuhan, agama, dan kitab suci</li><li>Huruf pertama nama gelar kehormatan, keturunan, dan keagamaan</li><li>Huruf pertama nama jabatan dan pangkat</li><li>Huruf pertama nama bangsa, suku, dan bahasa</li><li>Huruf pertama nama tahun, bulan, hari, dan hari raya</li><li>Huruf pertama nama geografi</li></ol><h3>Huruf Miring</h3><p>Huruf miring digunakan untuk:</p><ul><li>Menuliskan judul buku, majalah, dan surat kabar</li><li>Menegaskan atau mengkhususkan huruf, bagian kata, kata, atau kelompok kata</li><li>Menuliskan kata nama ilmiah atau ungkapan asing</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/puebi-diagram.jpg",
+          "caption": "Diagram penggunaan huruf kapital dalam PUEBI",
+          "alt": "Diagram PUEBI"
+        }
+      ]
+    },
+    {
+      "id": "tanda-baca",
+      "title": "Penggunaan Tanda Baca",
+      "content": "<h2>Tanda Baca dalam Bahasa Indonesia</h2><h3>Tanda Titik (.)</h3><p>Tanda titik digunakan:</p><ul><li>Pada akhir kalimat pernyataan</li><li>Di belakang angka atau huruf dalam suatu bagan, ikhtisar, atau daftar</li><li>Untuk memisahkan angka jam, menit, dan detik</li><li>Di antara nama penulis, judul tulisan, dan tempat terbit dalam daftar pustaka</li></ul><h3>Tanda Koma (,)</h3><p>Tanda koma digunakan:</p><ul><li>Di antara unsur-unsur dalam suatu pemerincian atau pembilangan</li><li>Untuk memisahkan kalimat setara yang satu dari kalimat setara berikutnya</li><li>Untuk memisahkan anak kalimat dari induk kalimat jika anak kalimat mendahului induk kalimat</li><li>Di belakang kata atau ungkapan penghubung antarkalimat</li></ul><h3>Tanda Titik Koma (;)</h3><p>Tanda titik koma digunakan untuk memisahkan bagian-bagian kalimat yang sejenis dan setara.</p>",
+      "media": []
+    },
+    {
+      "id": "kata-baku",
+      "title": "Kata Baku dan Tidak Baku",
+      "content": "<h2>Pengertian Kata Baku</h2><p>Kata baku adalah kata yang digunakan sesuai dengan kaidah bahasa Indonesia yang telah ditentukan. Kata baku digunakan dalam situasi resmi, seperti surat-menyurat resmi, karya ilmiah, dan rapat resmi.</p><h3>Contoh Kata Baku dan Tidak Baku</h3><table><thead><tr><th>Baku</th><th>Tidak Baku</th></tr></thead><tbody><tr><td>aktif</td><td>aktip</td></tr><tr><td>aktivitas</td><td>aktifitas</td></tr><tr><td>analisis</td><td>analisa</td></tr><tr><td>apotek</td><td>apotik</td></tr><tr><td>atlet</td><td>atlit</td></tr><tr><td>bus</td><td>bis</td></tr><tr><td>daftar</td><td>dapter</td></tr><tr><td>diagnosis</td><td>diagnosa</td></tr><tr><td>efektif</td><td>efektip</td></tr><tr><td>februari</td><td>pebruari</td></tr></tbody></table>",
+      "media": []
+    },
+    {
+      "id": "kalimat-efektif",
+      "title": "Kalimat Efektif",
+      "content": "<h2>Pengertian Kalimat Efektif</h2><p>Kalimat efektif adalah kalimat yang dapat mengungkapkan gagasan penutur atau penulis secara tepat sehingga dapat dipahami oleh pendengar atau pembaca secara tepat pula.</p><h3>Ciri-ciri Kalimat Efektif</h3><ol><li><strong>Kesepadanan</strong> - Memiliki struktur yang lengkap (subjek, predikat, objek, keterangan)</li><li><strong>Keparalelan</strong> - Kesamaan bentuk kata yang digunakan dalam kalimat</li><li><strong>Ketegasan</strong> - Menempatkan bagian penting pada awal atau akhir kalimat</li><li><strong>Kehematan</strong> - Tidak menggunakan kata-kata yang tidak perlu</li><li><strong>Kecermatan</strong> - Tidak menimbulkan penafsiran ganda</li><li><strong>Kepaduan</strong> - Hubungan antar unsur kalimat yang logis</li><li><strong>Kelogisan</strong> - Makna kalimat yang masuk akal</li></ol>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "caption": "Video penjelasan kalimat efektif (contoh placeholder)",
+          "alt": "Video pembelajaran kalimat efektif"
+        }
+      ]
+    }
+  ]
+}

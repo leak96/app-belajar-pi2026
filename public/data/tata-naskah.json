@@ -1,0 +1,63 @@
+{
+  "id": "tata-naskah",
+  "title": "Tata Naskah Dinas",
+  "description": "Pedoman penulisan naskah dinas dan dokumen resmi instansi pemerintah",
+  "icon": "FileText",
+  "color": "bg-emerald-500",
+  "lastUpdated": "2024-01-18",
+  "author": "Tim Penyusun Materi",
+  "tags": ["Naskah Dinas", "Surat Resmi", "Dokumen", "Administrasi"],
+  "sections": [
+    {
+      "id": "pengantar",
+      "title": "Pengantar Tata Naskah Dinas",
+      "content": "<h2>Pengertian Naskah Dinas</h2><p>Naskah dinas adalah informasi tertulis sebagai alat komunikasi kedinasan yang dibuat dan/atau dikeluarkan oleh pejabat yang berwenang di lingkungan instansi pemerintah dalam rangka penyelenggaraan tugas pemerintahan.</p><h3>Fungsi Naskah Dinas</h3><ul><li>Sebagai alat komunikasi kedinasan</li><li>Sebagai alat bukti tertulis</li><li>Sebagai pedoman kerja</li><li>Sebagai bahan pengambilan keputusan</li></ul><h3>Dasar Hukum</h3><p>Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 80 Tahun 2012 tentang Pedoman Tata Naskah Dinas Instansi Pemerintah.</p>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/tata-naskah.jpg",
+          "caption": "Contoh naskah dinas resmi",
+          "alt": "Ilustrasi Tata Naskah"
+        }
+      ]
+    },
+    {
+      "id": "jenis-naskah",
+      "title": "Jenis-jenis Naskah Dinas",
+      "content": "<h2>Klasifikasi Naskah Dinas</h2><h3>1. Naskah Dinas Arahan</h3><ul><li><strong>Peraturan</strong> - Keputusan yang bersifat mengatur</li><li><strong>Pedoman</strong> - Acuan yang bersifat umum</li><li><strong>Petunjuk Pelaksanaan</strong> - Penjabaran lebih lanjut dari pedoman</li><li><strong>Petunjuk Teknis</strong> - Penjabaran teknis operasional</li><li><strong>Instruksi</strong> - Perintah atasan kepada bawahan</li><li><strong>Surat Edaran</strong> - Pemberitahuan tertulis</li></ul><h3>2. Naskah Dinas Korespondensi</h3><ul><li><strong>Surat Dinas</strong> - Komunikasi kedinasan antar pejabat</li><li><strong>Nota Dinas</strong> - Komunikasi internal</li><li><strong>Memo</strong> - Catatan singkat</li></ul><h3>3. Naskah Dinas Khusus</h3><ul><li><strong>Surat Perjanjian</strong> - Kesepakatan antar pihak</li><li><strong>Surat Kuasa</strong> - Pelimpahan wewenang</li><li><strong>Berita Acara</strong> - Laporan suatu kegiatan</li><li><strong>Surat Keterangan</strong> - Penyampaian informasi</li></ul>",
+      "media": []
+    },
+    {
+      "id": "format-surat",
+      "title": "Format Surat Dinas",
+      "content": "<h2>Komponen Surat Dinas</h2><h3>Kepala Surat (Kop Surat)</h3><ul><li>Lambang negara/logo instansi</li><li>Nama instansi</li><li>Alamat lengkap</li><li>Nomor telepon, faksimile, email</li></ul><h3>Batang Tubuh Surat</h3><ul><li>Nomor surat</li><li>Tanggal surat</li><li>Sifat surat</li><li>Lampiran</li><li>Hal/Perihal</li><li>Alamat tujuan</li><li>Isi surat (pembuka, isi, penutup)</li></ul><h3>Kaki Surat</h3><ul><li>Nama jabatan penanda tangan</li><li>Tanda tangan</li><li>Nama lengkap</li><li>NIP (jika ada)</li><li>Tembusan (jika ada)</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/format-surat.jpg",
+          "caption": "Format standar surat dinas",
+          "alt": "Format Surat Dinas"
+        }
+      ]
+    },
+    {
+      "id": "penomoran",
+      "title": "Sistem Penomoran",
+      "content": "<h2>Kode dan Penomoran Naskah Dinas</h2><h3>Struktur Nomor Surat</h3><p>Format umum penomoran surat dinas:</p><code>Nomor: [Kode Klasifikasi]/[Nomor Urut]/[Kode Unit]/[Bulan]/[Tahun]</code><h3>Contoh Penomoran</h3><ul><li><strong>Nomor: 005/123/Sekretariat/I/2024</strong></li><li>005 = Kode klasifikasi arsip</li><li>123 = Nomor urut surat</li><li>Sekretariat = Kode unit kerja</li><li>I = Bulan (Januari)</li><li>2024 = Tahun</li></ul><h3>Kode Klasifikasi Umum</h3><table><thead><tr><th>Kode</th><th>Klasifikasi</th></tr></thead><tbody><tr><td>000</td><td>Umum</td></tr><tr><td>100</td><td>Kepegawaian</td></tr><tr><td>200</td><td>Keuangan</td></tr><tr><td>300</td><td>Perlengkapan</td></tr><tr><td>400</td><td>Administrasi</td></tr></tbody></table>",
+      "media": []
+    },
+    {
+      "id": "bahasa-naskah",
+      "title": "Bahasa dalam Naskah Dinas",
+      "content": "<h2>Penggunaan Bahasa</h2><p>Naskah dinas harus menggunakan bahasa Indonesia yang baik dan benar sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI).</p><h3>Prinsip Penulisan</h3><ul><li><strong>Jelas</strong> - Tidak menimbulkan penafsiran ganda</li><li><strong>Singkat</strong> - Tidak bertele-tele</li><li><strong>Sopan</strong> - Menggunakan bahasa yang santun</li><li><strong>Lugas</strong> - Langsung pada inti permasalahan</li></ul><h3>Kata Sapaan dalam Surat Dinas</h3><ul><li>Dengan hormat, (untuk pembuka)</li><li>Bersama ini kami sampaikan...</li><li>Demikian untuk menjadi maklum.</li><li>Atas perhatian Bapak/Ibu, kami ucapkan terima kasih.</li></ul>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "caption": "Tutorial penulisan surat dinas (contoh placeholder)",
+          "alt": "Video Tutorial Surat Dinas"
+        }
+      ]
+    }
+  ]
+}

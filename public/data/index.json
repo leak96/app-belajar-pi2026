@@ -1,0 +1,44 @@
+{
+  "subjects": [
+    {
+      "id": "bahasa-indonesia",
+      "title": "Bahasa Indonesia",
+      "description": "Materi tata bahasa, ejaan, dan penulisan Bahasa Indonesia yang baik dan benar",
+      "icon": "BookOpen",
+      "color": "bg-blue-500",
+      "file": "/data/bahasa-indonesia.json"
+    },
+    {
+      "id": "wawasan-kebangsaan",
+      "title": "Wawasan Kebangsaan",
+      "description": "Pemahaman tentang nilai-nilai kebangsaan, Pancasila, dan NKRI",
+      "icon": "Flag",
+      "color": "bg-red-500",
+      "file": "/data/wawasan-kebangsaan.json"
+    },
+    {
+      "id": "tata-naskah",
+      "title": "Tata Naskah",
+      "description": "Pedoman penulisan naskah dinas dan dokumen resmi",
+      "icon": "FileText",
+      "color": "bg-emerald-500",
+      "file": "/data/tata-naskah.json"
+    },
+    {
+      "id": "bahasa-inggris",
+      "title": "Bahasa Inggris",
+      "description": "English grammar, vocabulary, and communication skills",
+      "icon": "Globe",
+      "color": "bg-amber-500",
+      "file": "/data/bahasa-inggris.json"
+    },
+    {
+      "id": "renstra",
+      "title": "Renstra",
+      "description": "Rencana Strategis dan perencanaan pembangunan",
+      "icon": "Target",
+      "color": "bg-purple-500",
+      "file": "/data/renstra.json"
+    }
+  ]
+}

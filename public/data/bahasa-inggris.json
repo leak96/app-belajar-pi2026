@@ -1,0 +1,63 @@
+{
+  "id": "bahasa-inggris",
+  "title": "Bahasa Inggris",
+  "description": "English grammar, vocabulary, and communication skills for professional settings",
+  "icon": "Globe",
+  "color": "bg-amber-500",
+  "lastUpdated": "2024-01-22",
+  "author": "Tim Penyusun Materi",
+  "tags": ["Grammar", "Vocabulary", "Speaking", "Writing"],
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "Introduction to English",
+      "content": "<h2>Why Learn English?</h2><p>English is the global language of business, science, and international communication. Mastering English opens doors to countless opportunities in career advancement and personal development.</p><h3>Key Benefits</h3><ul><li><strong>Career Advancement</strong> - Many multinational companies require English proficiency</li><li><strong>Access to Information</strong> - Most academic resources are in English</li><li><strong>Global Communication</strong> - Connect with people worldwide</li><li><strong>Cultural Understanding</strong> - Appreciate literature, films, and music in their original form</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/english-learning.jpg",
+          "caption": "English as a global language",
+          "alt": "English Learning Illustration"
+        }
+      ]
+    },
+    {
+      "id": "tenses",
+      "title": "English Tenses",
+      "content": "<h2>Understanding Tenses</h2><p>Tenses indicate the time of an action or state of being. English has 12 main tenses divided into three time frames: past, present, and future.</p><h3>Present Tenses</h3><ul><li><strong>Simple Present</strong> - I work every day.</li><li><strong>Present Continuous</strong> - I am working now.</li><li><strong>Present Perfect</strong> - I have worked here for five years.</li><li><strong>Present Perfect Continuous</strong> - I have been working since morning.</li></ul><h3>Past Tenses</h3><ul><li><strong>Simple Past</strong> - I worked yesterday.</li><li><strong>Past Continuous</strong> - I was working when you called.</li><li><strong>Past Perfect</strong> - I had worked before the meeting.</li><li><strong>Past Perfect Continuous</strong> - I had been working for hours.</li></ul><h3>Future Tenses</h3><ul><li><strong>Simple Future</strong> - I will work tomorrow.</li><li><strong>Future Continuous</strong> - I will be working at 9 AM.</li><li><strong>Future Perfect</strong> - I will have worked by then.</li><li><strong>Future Perfect Continuous</strong> - I will have been working for a year.</li></ul>",
+      "media": []
+    },
+    {
+      "id": "vocabulary",
+      "title": "Professional Vocabulary",
+      "content": "<h2>Business English Vocabulary</h2><h3>Common Office Terms</h3><table><thead><tr><th>Word</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><td>Deadline</td><td>Batas waktu</td><td>The deadline is next Friday.</td></tr><tr><td>Meeting</td><td>Rapat</td><td>We have a meeting at 10 AM.</td></tr><tr><td>Report</td><td>Laporan</td><td>Please submit your report.</td></tr><tr><td>Proposal</td><td>Usulan</td><td>I will prepare the proposal.</td></tr><tr><td>Budget</td><td>Anggaran</td><td>The budget is limited.</td></tr><tr><td>Schedule</td><td>Jadwal</td><td>Check the schedule first.</td></tr></tbody></table><h3>Useful Phrases</h3><ul><li>\"I would like to...\" - Saya ingin...</li><li>\"Could you please...\" - Bisakah Anda...</li><li>\"I appreciate your help.\" - Saya menghargai bantuan Anda.</li><li>\"Let me get back to you.\" - Saya akan menghubungi Anda kembali.</li></ul>",
+      "media": []
+    },
+    {
+      "id": "writing",
+      "title": "Business Writing",
+      "content": "<h2>Professional Email Writing</h2><h3>Email Structure</h3><ul><li><strong>Subject Line</strong> - Clear and concise topic</li><li><strong>Greeting</strong> - Dear Mr./Ms. [Name]</li><li><strong>Opening</strong> - State your purpose</li><li><strong>Body</strong> - Provide details</li><li><strong>Closing</strong> - Summarize and call to action</li><li><strong>Sign-off</strong> - Best regards, Sincerely</li></ul><h3>Sample Email</h3><blockquote><p>Subject: Meeting Request - Project Update</p><p>Dear Mr. Johnson,</p><p>I hope this email finds you well. I am writing to request a meeting to discuss the progress of our current project.</p><p>Would you be available next Tuesday at 2 PM? Please let me know if this time works for you.</p><p>Best regards,<br>Ahmad</p></blockquote>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/email-writing.jpg",
+          "caption": "Professional email writing tips",
+          "alt": "Email Writing Tips"
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "title": "Speaking Skills",
+      "content": "<h2>Improving Speaking Skills</h2><h3>Presentation Tips</h3><ol><li><strong>Prepare</strong> - Know your material thoroughly</li><li><strong>Practice</strong> - Rehearse multiple times</li><li><strong>Speak Clearly</strong> - Enunciate and pace yourself</li><li><strong>Engage</strong> - Make eye contact with your audience</li><li><strong>Use Visual Aids</strong> - Support your points with slides</li></ol><h3>Common Phrases for Presentations</h3><ul><li>\"Good morning/afternoon, everyone.\"</li><li>\"Today, I will be presenting...\"</li><li>\"Let me begin by...\"</li><li>\"Moving on to the next point...\"</li><li>\"To summarize...\"</li><li>\"Thank you for your attention.\"</li><li>\"Are there any questions?\"</li></ul>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "caption": "English speaking practice (placeholder example)",
+          "alt": "Speaking Practice Video"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "_comment": "=== CONTOH STRUKTUR JSON UNTUK MATERI BARU ===",
+  "_instructions": "Salin file ini dan ganti dengan konten materi Anda",
+  
+  "id": "contoh-materi",
+  "title": "Judul Materi Anda",
+  "description": "Deskripsi singkat tentang materi ini yang akan ditampilkan di kartu materi",
+  "icon": "BookOpen",
+  "color": "bg-blue-500",
+  "lastUpdated": "2024-01-01",
+  "author": "Nama Penulis atau Tim",
+  "tags": ["Tag1", "Tag2", "Tag3"],
+  
+  "sections": [
+    {
+      "id": "bagian-1",
+      "title": "Judul Bagian Pertama",
+      "content": "<h2>Sub Judul</h2><p>Ini adalah paragraf pertama. Anda bisa menggunakan <strong>teks tebal</strong> dan <em>teks miring</em>.</p><h3>Sub Sub Judul</h3><p>Paragraf kedua dengan penjelasan lebih detail.</p><ul><li>Poin pertama dalam daftar</li><li>Poin kedua dalam daftar</li><li>Poin ketiga dalam daftar</li></ul><p>Contoh tabel:</p><table><thead><tr><th>Kolom 1</th><th>Kolom 2</th><th>Kolom 3</th></tr></thead><tbody><tr><td>Data 1</td><td>Data 2</td><td>Data 3</td></tr><tr><td>Data 4</td><td>Data 5</td><td>Data 6</td></tr></tbody></table>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/nama-folder/nama-gambar.jpg",
+          "caption": "Keterangan gambar yang akan ditampilkan di bawah gambar",
+          "alt": "Teks alternatif untuk aksesibilitas (screen reader)"
+        }
+      ]
+    },
+    {
+      "id": "bagian-2",
+      "title": "Judul Bagian Kedua",
+      "content": "<h2>Heading Level 2</h2><p>Konten bagian kedua. Anda bisa menggunakan blockquote:</p><blockquote>Ini adalah kutipan atau quote yang akan ditampilkan dengan style khusus.</blockquote><h3>Daftar Berurutan</h3><ol><li>Langkah pertama</li><li>Langkah kedua</li><li>Langkah ketiga</li></ol><p>Contoh kode inline: <code>console.log('Hello World')</code></p>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/VIDEO_ID_DISINI",
+          "caption": "Keterangan video yang akan ditampilkan"
+        }
+      ]
+    },
+    {
+      "id": "bagian-3",
+      "title": "Judul Bagian Ketiga (Tanpa Media)",
+      "content": "<h2>Bagian Tanpa Gambar atau Video</h2><p>Tidak semua bagian harus memiliki media. Anda bisa membuat bagian yang hanya berisi teks.</p><p>Gunakan link seperti ini: <a href='https://example.com'>Klik di sini</a> untuk referensi eksternal.</p>",
+      "media": []
+    }
+  ],
+
+  "_icon_options": [
+    "BookOpen - Untuk materi umum/buku",
+    "FileText - Untuk dokumen/tata naskah",
+    "Flag - Untuk materi kebangsaan",
+    "Globe - Untuk bahasa asing",
+    "Target - Untuk strategi/renstra"
+  ],
+  
+  "_color_options": [
+    "bg-blue-500",
+    "bg-red-500",
+    "bg-green-500",
+    "bg-emerald-500",
+    "bg-amber-500",
+    "bg-orange-500",
+    "bg-purple-500",
+    "bg-pink-500",
+    "bg-indigo-500",
+    "bg-cyan-500",
+    "bg-teal-500"
+  ],
+  
+  "_html_tags_supported": [
+    "<h2> - Heading level 2",
+    "<h3> - Heading level 3",
+    "<p> - Paragraf",
+    "<strong> - Teks tebal",
+    "<em> - Teks miring",
+    "<ul><li> - Daftar tidak berurutan",
+    "<ol><li> - Daftar berurutan",
+    "<table><thead><tbody><tr><th><td> - Tabel",
+    "<blockquote> - Kutipan",
+    "<code> - Kode inline",
+    "<a href=''> - Link"
+  ]
+}

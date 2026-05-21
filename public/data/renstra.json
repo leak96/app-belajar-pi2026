@@ -1,0 +1,63 @@
+{
+  "id": "renstra",
+  "title": "Rencana Strategis (Renstra)",
+  "description": "Materi tentang perencanaan strategis dan pembangunan organisasi",
+  "icon": "Target",
+  "color": "bg-purple-500",
+  "lastUpdated": "2024-01-25",
+  "author": "Tim Penyusun Materi",
+  "tags": ["Perencanaan", "Strategi", "Visi Misi", "Indikator Kinerja"],
+  "sections": [
+    {
+      "id": "pengantar",
+      "title": "Pengantar Renstra",
+      "content": "<h2>Pengertian Rencana Strategis</h2><p>Rencana Strategis (Renstra) adalah dokumen perencanaan untuk periode 5 (lima) tahun yang berisi visi, misi, tujuan, strategi, kebijakan, program, dan kegiatan pembangunan.</p><h3>Fungsi Renstra</h3><ul><li>Memberikan arah dan panduan pelaksanaan tugas</li><li>Menjadi dasar penyusunan program dan anggaran</li><li>Alat ukur keberhasilan organisasi</li><li>Instrument akuntabilitas kinerja</li></ul><h3>Dasar Hukum</h3><ul><li>UU No. 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional</li><li>PP No. 8 Tahun 2008 tentang Tahapan, Tata Cara Penyusunan, Pengendalian dan Evaluasi Pelaksanaan Rencana Pembangunan Daerah</li></ul>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/renstra.jpg",
+          "caption": "Ilustrasi perencanaan strategis",
+          "alt": "Renstra Illustration"
+        }
+      ]
+    },
+    {
+      "id": "visi-misi",
+      "title": "Visi dan Misi",
+      "content": "<h2>Menyusun Visi</h2><p>Visi adalah rumusan umum mengenai keadaan yang diinginkan pada akhir periode perencanaan.</p><h3>Kriteria Visi yang Baik</h3><ul><li><strong>Inspiratif</strong> - Memberi motivasi</li><li><strong>Jelas</strong> - Mudah dipahami</li><li><strong>Realistis</strong> - Dapat dicapai</li><li><strong>Terukur</strong> - Dapat dievaluasi</li></ul><h3>Contoh Visi</h3><blockquote>\"Terwujudnya Indonesia Maju yang Berdaulat, Mandiri, dan Berkepribadian Berlandaskan Gotong Royong\"</blockquote><h2>Menyusun Misi</h2><p>Misi adalah rumusan umum mengenai upaya-upaya yang akan dilaksanakan untuk mewujudkan visi.</p><h3>Kriteria Misi yang Baik</h3><ul><li>Mendukung pencapaian visi</li><li>Menggambarkan tugas dan fungsi organisasi</li><li>Dapat dilaksanakan dalam periode perencanaan</li></ul>",
+      "media": []
+    },
+    {
+      "id": "tujuan-sasaran",
+      "title": "Tujuan dan Sasaran",
+      "content": "<h2>Perbedaan Tujuan dan Sasaran</h2><h3>Tujuan</h3><p>Tujuan adalah sesuatu yang akan dicapai dalam jangka waktu 1-5 tahun. Tujuan ditetapkan dengan mengacu pada pernyataan visi dan misi.</p><h3>Sasaran</h3><p>Sasaran adalah hasil yang diharapkan dari suatu tujuan yang diformulasikan secara terukur, spesifik, dan dapat dicapai dalam kurun waktu tertentu.</p><h3>Kriteria SMART</h3><table><thead><tr><th>Kriteria</th><th>Keterangan</th></tr></thead><tbody><tr><td><strong>S</strong>pecific</td><td>Jelas dan spesifik</td></tr><tr><td><strong>M</strong>easurable</td><td>Dapat diukur</td></tr><tr><td><strong>A</strong>chievable</td><td>Dapat dicapai</td></tr><tr><td><strong>R</strong>elevant</td><td>Relevan dengan tujuan</td></tr><tr><td><strong>T</strong>ime-bound</td><td>Memiliki batas waktu</td></tr></tbody></table>",
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/sample/smart-goals.jpg",
+          "caption": "Kriteria SMART untuk sasaran",
+          "alt": "SMART Goals Diagram"
+        }
+      ]
+    },
+    {
+      "id": "indikator-kinerja",
+      "title": "Indikator Kinerja",
+      "content": "<h2>Pengertian Indikator Kinerja</h2><p>Indikator kinerja adalah ukuran keberhasilan yang menggambarkan tingkat pencapaian suatu tujuan, sasaran, atau program/kegiatan.</p><h3>Jenis Indikator Kinerja</h3><ul><li><strong>Indikator Input</strong> - Sumber daya yang digunakan (anggaran, SDM)</li><li><strong>Indikator Output</strong> - Hasil langsung dari kegiatan</li><li><strong>Indikator Outcome</strong> - Manfaat yang dirasakan</li><li><strong>Indikator Benefit</strong> - Dampak positif jangka menengah</li><li><strong>Indikator Impact</strong> - Dampak jangka panjang</li></ul><h3>Contoh Indikator</h3><table><thead><tr><th>Jenis</th><th>Contoh</th></tr></thead><tbody><tr><td>Input</td><td>Jumlah anggaran pelatihan</td></tr><tr><td>Output</td><td>Jumlah peserta yang dilatih</td></tr><tr><td>Outcome</td><td>Persentase peserta yang kompeten</td></tr><tr><td>Impact</td><td>Peningkatan produktivitas kerja</td></tr></tbody></table>",
+      "media": []
+    },
+    {
+      "id": "monitoring-evaluasi",
+      "title": "Monitoring dan Evaluasi",
+      "content": "<h2>Pengertian Monev</h2><h3>Monitoring</h3><p>Monitoring adalah proses pemantauan secara terus menerus terhadap pelaksanaan program/kegiatan untuk mengetahui perkembangan dan hambatan yang dihadapi.</p><h3>Evaluasi</h3><p>Evaluasi adalah penilaian secara sistematis terhadap pencapaian tujuan dan sasaran program/kegiatan yang telah dilaksanakan.</p><h3>Siklus Monev</h3><ol><li><strong>Pengumpulan Data</strong> - Mengumpulkan informasi pelaksanaan</li><li><strong>Analisis</strong> - Membandingkan realisasi dengan target</li><li><strong>Pelaporan</strong> - Menyusun laporan capaian</li><li><strong>Tindak Lanjut</strong> - Menyusun rekomendasi perbaikan</li></ol><h3>Manfaat Monev</h3><ul><li>Mengetahui kemajuan pelaksanaan</li><li>Mengidentifikasi permasalahan</li><li>Sebagai bahan pengambilan keputusan</li><li>Meningkatkan akuntabilitas</li></ul>",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "caption": "Tutorial penyusunan Renstra (contoh placeholder)",
+          "alt": "Video Tutorial Renstra"
+        }
+      ]
+    }
+  ]
+}
